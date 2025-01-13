@@ -12,4 +12,4 @@ You just click and drag on the cube to rotate it, click buttons to do your turns
 
 After I made the 3x3, some friends asked me how I did it. I would print out a paper with the unfolded 3x3 on it, number each sticker, and then cut it up and fold it into a cube. Then, I used the numbers to make pairs of points for each turn. The same goes for the 4x4.
 
-![photo of paper 4x4](https://github.com/UnstoppableBlob/4x4_cube/blob/6b5617498e1c6a8b4d29a69e10b08fe0343229de/image.png)
+![photo of paper 4x4](https://cloud-40lr39dms-hack-club-bot.vercel.app/0image.png)
